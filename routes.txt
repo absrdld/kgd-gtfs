@@ -1,0 +1,6 @@
+agency_id,route_id,route_type,route_short_name,route_long_name,route_desc,route_url,route_color,route_text_color,route_sort_order,continuous_pickup,continuous_drop_off
+KGD,D1,3,D1,Kuligów - Warszawa Pl. Bankowy,,,046A38,FFFFFF,,,
+KGD,D2,3,D2,Czarnów - Radzymin,,,046A38,FFFFFF,,,
+KGD,D3,3,D3,Lasków - Radzymin,,,046A38,FFFFFF,,,
+KGD,D4,3,D4,Lasków - Radzymin,,,046A38,FFFFFF,,,
+KGD,D5,3,D5,Radzymin Ks. Czartoryskiej - Radzymin Ks. Czartoryskiej,,,046A38,FFFFFF,,,

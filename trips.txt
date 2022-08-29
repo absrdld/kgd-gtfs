@@ -1,0 +1,34 @@
+route_id,service_id,shape_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,wheelchair_accessible,bikes_allowed
+D1,DP,D1_KG_WAWPLB_OBJAZD_0,D1001,Warszawa Pl. Bankowy,,0,,2,2
+D1,DP,D1_KG_WAWDW_OBJAZD_0,D1002,Warszawa Dw. Wileński,,0,,2,2
+D1,DP,D1_KG_WAWPLB_OBJAZD_0,D1003,Warszawa Pl. Bankowy,,0,,2,2
+D1,DP,D1_KG_RDZ_OBJAZD_0,D1004,Radzymin Ks. Czartoryskiej,,0,,,2
+D1,DP,D1_KG_WAWDW_OBJAZD_0,D1006,Warszawa Dw. Wileński,,0,,2,2
+D1,DP,D1_WWADW_KG_OBJAZD_1,D1007,Kuligów,,1,,2,2
+D1,DP,D1_RDZ_KG_OBJAZD_1,D1009,Kuligów,,1,,,2
+D1,DP,D1_WWADW_KG_OBJAZD_1,D1010,Kuligów,,1,,2,2
+D1,DP,D1_WWADW_KG_OBJAZD_1,D1011,Kuligów,,1,,2,2
+D1,DP,D1_WWADW_KG_OBJAZD_1,D1012,Kuligów,,1,,2,2
+D2,DP,D2_CZ_RDZ_0,D2001,Radzymin Ks. Czartoryskiej,,0,,1,2
+D2,DP,D2_CZ_Karp_RDZ_0,D2003,Radzymin Ks. Czartoryskiej p. Karpin,,0,,1,2
+D2,DSZ,D2_CZ_RDZ_0,D2006,Radzymin Ks. Czartoryskiej,,0,,1,2
+D2,DP,D2_SL_RDZ_0,D2007,Radzymin Ks. Czartoryskiej,,0,,1,2
+D2,DP,D2_CZ_RDZ_1,D2008,Czarnów,,1,,1,2
+D2,DP,D2_SL_Karp_RDZ_1,D2010,Ślężany p. Karpin,,1,,1,2
+D2,DSZ,D2_CZ_RDZ_1,D2011,Czarnów,,1,,1,2
+D2,DP,D2_SL_RDZ_1,D2012,Ślężany,,1,,1,2
+D3,DP,D3_LA_RDZ_OBJAZD_0,D3002,Radzymin Ks. Czartoryskiej,,0,,1,2
+D3,DP,D3_LA_D_RDZ_OBJAZD_0,D3003,Radzymin Ks. Czartoryskiej p. Małopole,,0,,1,2
+D3,DP,D3_RDZ_LA_OBJAZD_1,D3006,Lasków,,1,,1,2
+D3,DP,D3_RDZ_LA_OBJAZD_1,D3006_2,Lasków,,1,,1,2
+D4,DP,D4_LA_K_RDZ_OBJAZD_0,D4002,Radzymin Ks. Czartoryskiej p. Karolew,,0,,1,2
+D4,DP,D4_RDZ_K_LA_OBJAZD_1,D4005,Lasków p. Karolew,,1,,1,2
+D4,DP,D4_RDZ_K_LA_OBJAZD_1,D4005_2,Lasków p. Karolew,,1,,1,2
+D5,SOB,D5_RDZ_D_KUL_JZ_OBJAZD_0,D5001,Radzymin Ks. Czartoryskiej p. Kuligów,,0,,1,2
+D5,ND,D5_RDZ_D_KUL_JZ_OBJAZD_0,D5003,Radzymin Ks. Czartoryskiej p. Kuligów,,0,,1,2
+D5,SOB,D5_RDZ_D_JZ_OBJAZD_0,D5004,Radzymin Ks. Czartoryskiej,,0,,1,2
+D5,ND_WK,D5_RDZ_D_KUL_JZ_OBJAZD_0,D5005,Radzymin Ks. Czartoryskiej p. Kuligów,,0,,1,2
+D5,DP,D5_RDZ_D_JZ_OBJAZD_0,D5006,Radzymin Ks. Czartoryskiej,,0,,1,2
+D5,DP,D5_RDZ_D_KUL_JZ_OBJAZD_0,D5007,Radzymin Ks. Czartoryskiej p. Kuligów,,0,,1,2
+D5,SOB,D5_RDZ_JZ_D_RDZ_OBJAZD_0,D5008,Radzymin Ks. Czartoryskiej,,1,,1,2
+D5,ND,D5_RDZ_JZ_KUL_D_RDZ_OBJAZD_0,D5009,Radzymin Ks. Czartoryskiej p. Kuligów,,1,,1,2
