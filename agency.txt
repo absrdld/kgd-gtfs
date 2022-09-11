@@ -1,2 +1,2 @@
 agency_id,agency_name,agency_lang,agency_timezone,agency_url,agency_phone,agency_email,agency_fare_url
-KGD,Komunikacja Gminna Dąbrówka,,Europe/Warsaw,https://dabrowka.net.pl,,,
+KGD,Komunikacja Gminna Dąbrówka,pl,Europe/Warsaw,https://dabrowka.net.pl,,,https://www.dabrowka.net.pl/index.php?cmd=zawartosc&opt=pokaz&id=908
