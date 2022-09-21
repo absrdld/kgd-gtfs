@@ -3,18 +3,21 @@ Nieoficjalne dane GTFS dla Komunikacji Gminy Dąbrówka (KGD)
 
 ℹ️ **Najnowsza wersja będzie udostępniana w pierwszej kolejności poprzez funkcję Releases**
 
+Zestaw GTFS powstaje na podstawie danych udostępnianych publicznie przez urząd gminy Dąbrówka:
+- Rozkład jazdy: https://www.dabrowka.net.pl/index.php?cmd=zawartosc&opt=pokaz&id=16
+
+Jednocześnie informuje, iż ten zestaw danych GTFS nie jest oficjalnym źródłem informacji na temat komunikacji publicznej w gminie Dąbrówka i mogą wystąpić nieliczne rozbierzność z rzeczywistością, tj. lokalizacja niektórych przystanków, ze względu na brak możliwości otrzymania przez mnie szczegółowych i oficjalnych infromacji na ten temat. W takich przypadkach dane te są określone przezemnie na podstawie wiedzy własnej.
+
 ![kgd](https://i.ibb.co/Mn67zT6/Bez-nazwy-1.jpg "kgd")
 
 ***
 
-### Wersja 1.1.1 - [KGD v1.1.1.zip](https://github.com/absrdld/kgd-gtfs/files/9542544/KGD.v1.1.1.zip)
+### Wersja 1.1.2
 
 Nieoficjalne dane GTFS dla komunikacji w gminie Dąbrówka. Zawiera informacje o rozkładach od 01.09.2022 do 17.02.2023r.
 
 Zmiany:
 
-- Zrezygnowano z frequencies.txt, obecnie każdy trip jest zapisany w stop_times.txt
-- Dodano brakujące dane do shapes.txt
-- Usunięto kolumnę timepoint z stop_times.txt ze względu na brak jej wykorzystania
+- Dodano kolumne brigade do trips.txt
 
 Jeśli chcesz integrować te dane z innymi zwróć uwagę na prawdopodobne powielające się przystanki w stops.txt pomiędzy zestawami GTFS!
