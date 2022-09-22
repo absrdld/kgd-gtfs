@@ -12,12 +12,12 @@ Jednocześnie informuje, iż ten zestaw danych GTFS nie jest oficjalnym źródł
 
 ***
 
-### Wersja 1.1.2
+### Wersja 1.1.3
 
 Nieoficjalne dane GTFS dla komunikacji w gminie Dąbrówka. Zawiera informacje o rozkładach od 01.09.2022 do 17.02.2023r.
 
 Zmiany:
 
-- Dodano kolumne brigade do trips.txt
+- Poprawiono brygady dla D1 i D2
 
 Jeśli chcesz integrować te dane z innymi zwróć uwagę na prawdopodobne powielające się przystanki w stops.txt pomiędzy zestawami GTFS!
