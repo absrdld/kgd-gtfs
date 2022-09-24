@@ -6,12 +6,12 @@ D4,DP,D4004,Lasków p. Karolew,1,D4_RDZ_K_LA_OBJAZD_1,,1,2,,1
 D4,DP,D4005,Lasków p. Karolew,1,D4_RDZ_K_LA_OBJAZD_1,,1,2,,1
 D3,DP,D3001,Radzymin Ks. Czartoryskiej p. Małopole,0,D3_LA_D_RDZ_OBJAZD_0,,1,2,,1
 D3,DP,D3002,Radzymin Ks. Czartoryskiej,0,D3_LA_RDZ_OBJAZD_0,,1,2,,1
-D3,DP,D3003,Radzymin Ks. Czartoryskiej p. Małopole,0,D3_LA_D_RDZ_OBJAZD_0,,1,2,,1
+D3,DP,D3003,Warszawa Dw. Wileński p. Małopole,0,D3_LA_D_WAWDW_OBJAZD_0,,1,2,,2
 D3,DP,D3004,Radzymin Ks. Czartoryskiej,0,D3_LA_RDZ_OBJAZD_0,,1,2,,1
 D3,DP,D3005,Lasków,1,D3_RDZ_LA_OBJAZD_1,,1,2,,1
-D3,DP,D3006,Lasków,1,D3_RDZ_LA_OBJAZD_1,,1,2,,1
-D3,DP,D3007,Lasków,1,D3_RDZ_LA_OBJAZD_1,,1,2,,1
-D2,DP,D2001,Radzymin Ks. Czartoryskiej,0,D2_CZ_RDZ_0,,1,2,,1
+D3,DP,D3006,Lasków,1,D3_WWADW_LA_OBJAZD_1,,1,2,,1
+D3,DP,D3007,Lasków,1,D3_WWADW_LA_OBJAZD_1,,1,2,,2
+D2,DP,D2001,Radzymin Ks. Czartoryskiej,0,D2_CZ_RDZ_0,,1,2,,2
 D2,DP,D2002,Radzymin Ks. Czartoryskiej,0,D2_SL_RDZ_0,,1,2,,1
 D2,DSZ,D2014,Radzymin Ks. Czartoryskiej,0,D2_DAB_Karp_RDZ_0,,1,2,,2
 D2,DP,D2003,Radzymin Ks. Czartoryskiej p. Karpin,0,D2_CZ_Karp_RDZ_0,,1,2,,1
