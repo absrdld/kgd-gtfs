@@ -12,11 +12,9 @@ Jednocześnie informuje, iż ten zestaw danych GTFS nie jest oficjalnym źródł
 
 ***
 
-### Wersja 1.1.4
+### Wersja 1.1.5
 
 Zmiany:
-
-- poprawiono rozkład D3 (niektóre kursy kończyły trasę w Radzyminie, zamiast w Warszawie)
-- poprawiono błędnie zatrzymujące się kursy w Małopolu (przystanki DMP2 i DMP3) dla linii D2 i D3
+- poprawiono kurs D2010 (błędna trasa)
 
 Jeśli chcesz integrować te dane z innymi zwróć uwagę na prawdopodobne powielające się przystanki w stops.txt pomiędzy zestawami GTFS!
