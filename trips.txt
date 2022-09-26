@@ -13,16 +13,16 @@ D3,DP,D3006,Lasków,1,D3_WWADW_LA_OBJAZD_1,,1,2,,1
 D3,DP,D3007,Lasków,1,D3_WWADW_LA_OBJAZD_1,,1,2,,2
 D2,DP,D2001,Radzymin Ks. Czartoryskiej,0,D2_CZ_RDZ_0,,1,2,,2
 D2,DP,D2002,Radzymin Ks. Czartoryskiej,0,D2_SL_RDZ_0,,1,2,,1
-D2,DSZ,D2014,Radzymin Ks. Czartoryskiej,0,D2_DAB_Karp_RDZ_0,,1,2,,2
+D2,DSZ,D2014,Radzymin Ks. Czartoryskiej p. Karpin,0,D2_DAB_Karp_RDZ_0,,1,2,,2
 D2,DP,D2003,Radzymin Ks. Czartoryskiej p. Karpin,0,D2_CZ_Karp_RDZ_0,,1,2,,1
 D2,DP,D2004,Radzymin Ks. Czartoryskiej,0,D2_SL_RDZ_0,,1,2,,1
 D2,DP,D2005,Radzymin Ks. Czartoryskiej,0,D2_SL_RDZ_0,,1,2,,1
 D2,DSZ,D2006,Radzymin Ks. Czartoryskiej,0,D2_CZ_RDZ_0,,1,2,,1
 D2,DP,D2007,Radzymin Ks. Czartoryskiej,0,D2_SL_RDZ_0,,1,2,,1
-D2,DSZ,D2015,Dąbrówka,1,D2_DAB_Karp_RDZ_1,,1,2,,2
+D2,DSZ,D2015,Dąbrówka p. Karpin,1,D2_DAB_Karp_RDZ_1,,1,2,,2
 D2,DP,D2008,Czarnów,1,D2_CZ_RDZ_1,,1,2,,1
 D2,DP,D2009,Ślężany p. Karpin,1,D2_SL_Karp_RDZ_1,,1,2,,1
-D2,DP,D2010,Ślężany p. Karpin,1,D2_SL_Karp_RDZ_1,,1,2,,1
+D2,DP,D2010,Ślężany,1,D2_SL_RDZ_1,,1,2,,1
 D2,DSZ,D2011,Czarnów,1,D2_CZ_RDZ_1,,1,2,,1
 D2,DP,D2012,Ślężany,1,D2_SL_RDZ_1,,1,2,,1
 D2,DP,D2013,Ślężany,1,D2_SL_RDZ_1,,1,2,,1
