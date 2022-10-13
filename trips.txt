@@ -1,49 +1,49 @@
 route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,exceptional,wheelchair_accessible,bikes_allowed,trip_short_name,brigade
-D4,DP,D4001,Radzymin Ks. Czartoryskiej p. Karolew,0,D4_LA_K_RDZ_OBJAZD_0,,1,2,,1
-D4,DP,D4002,Radzymin Ks. Czartoryskiej p. Karolew,0,D4_LA_K_RDZ_OBJAZD_0,,1,2,,1
-D4,DP,D4003,Lasków p. Karolew,1,D4_RDZ_K_LA_OBJAZD_1,,1,2,,1
-D4,DP,D4004,Lasków p. Karolew,1,D4_RDZ_K_LA_OBJAZD_1,,1,2,,1
-D4,DP,D4005,Lasków p. Karolew,1,D4_RDZ_K_LA_OBJAZD_1,,1,2,,1
-D3,DP,D3001,Radzymin Ks. Czartoryskiej p. Małopole,0,D3_LA_D_RDZ_OBJAZD_0,,1,2,,1
-D3,DP,D3002,Radzymin Ks. Czartoryskiej,0,D3_LA_RDZ_OBJAZD_0,,1,2,,1
-D3,DP,D3003,Warszawa Dw. Wileński p. Małopole,0,D3_LA_D_WAWDW_OBJAZD_0,,1,2,,2
-D3,DP,D3004,Radzymin Ks. Czartoryskiej,0,D3_LA_RDZ_OBJAZD_0,,1,2,,1
-D3,DP,D3005,Lasków,1,D3_RDZ_LA_OBJAZD_1,,1,2,,1
-D3,DP,D3006,Lasków,1,D3_WWADW_LA_OBJAZD_1,,1,2,,1
-D3,DP,D3007,Lasków,1,D3_WWADW_LA_OBJAZD_1,,1,2,,2
-D2,DP,D2001,Radzymin Ks. Czartoryskiej,0,D2_CZ_RDZ_0,,1,2,,2
-D2,DP,D2002,Radzymin Ks. Czartoryskiej,0,D2_SL_RDZ_0,,1,2,,1
-D2,DSZ,D2014,Radzymin Ks. Czartoryskiej p. Karpin,0,D2_DAB_Karp_RDZ_0,,1,2,,2
-D2,DP,D2003,Radzymin Ks. Czartoryskiej p. Karpin,0,D2_CZ_Karp_RDZ_0,,1,2,,1
-D2,DP,D2004,Radzymin Ks. Czartoryskiej,0,D2_SL_RDZ_0,,1,2,,1
-D2,DP,D2005,Radzymin Ks. Czartoryskiej,0,D2_SL_RDZ_0,,1,2,,1
-D2,DSZ,D2006,Radzymin Ks. Czartoryskiej,0,D2_CZ_RDZ_0,,1,2,,1
-D2,DP,D2007,Radzymin Ks. Czartoryskiej,0,D2_SL_RDZ_0,,1,2,,1
-D2,DSZ,D2015,Dąbrówka p. Karpin,1,D2_DAB_Karp_RDZ_1,,1,2,,2
-D2,DP,D2008,Czarnów,1,D2_CZ_RDZ_1,,1,2,,1
-D2,DP,D2009,Ślężany p. Karpin,1,D2_SL_Karp_RDZ_1,,1,2,,1
-D2,DP,D2010,Ślężany,1,D2_SL_RDZ_1,,1,2,,1
-D2,DSZ,D2011,Czarnów,1,D2_CZ_RDZ_1,,1,2,,1
-D2,DP,D2012,Ślężany,1,D2_SL_RDZ_1,,1,2,,1
-D2,DP,D2013,Ślężany,1,D2_SL_RDZ_1,,1,2,,1
-D1,DP,D1001,Warszawa Pl. Bankowy,0,D1_KG_WAWPLB_OBJAZD_0,,2,2,,1
-D1,DP,D1002,Warszawa Dw. Wileński,0,D1_KG_WAWDW_OBJAZD_0,,2,2,,2
-D1,DP,D1003,Warszawa Pl. Bankowy,0,D1_KG_WAWPLB_OBJAZD_0,,2,2,,1
-D1,DP,D1004,Radzymin Ks. Czartoryskiej,0,D1_KG_RDZ_OBJAZD_0,,0,2,,3
-D1,DP,D1005,Warszawa Dw. Wileński,0,D1_KG_WAWDW_OBJAZD_0,,2,2,,1
-D1,DP,D1006,Warszawa Dw. Wileński,0,D1_KG_WAWDW_OBJAZD_0,,2,2,,2
-D1,DP,D1007,Kuligów,1,D1_WWADW_KG_OBJAZD_1,,2,2,,2
-D1,DP,D1008,Kuligów,1,D1_WWADW_KG_OBJAZD_1,,2,2,,1
-D1,DP,D1009,Kuligów,1,D1_RDZ_KG_OBJAZD_1,,0,2,,3
-D1,DP,D1010,Kuligów,1,D1_WWADW_KG_OBJAZD_1,,2,2,,1
-D1,DP,D1011,Kuligów,1,D1_WWADW_KG_OBJAZD_1,,2,2,,2
-D1,DP,D1012,Kuligów,1,D1_WWADW_KG_OBJAZD_1,,2,2,,1
-D5,SOB,D5001,Radzymin Ks. Czartoryskiej p. Kuligów,0,D5_RDZ_D_KUL_JZ_OBJAZD_0,,1,2,,1
-D5,SOB,D5002,Radzymin Ks. Czartoryskiej,0,D5_RDZ_D_JZ_OBJAZD_0,,1,2,,1
-D5,ND,D5003,Radzymin Ks. Czartoryskiej p. Kuligów,0,D5_RDZ_D_KUL_JZ_OBJAZD_0,,1,2,,1
-D5,SOB,D5004,Radzymin Ks. Czartoryskiej,0,D5_RDZ_D_JZ_OBJAZD_0,,1,2,,1
-D5,ND_WK,D5005,Radzymin Ks. Czartoryskiej p. Kuligów,0,D5_RDZ_D_KUL_JZ_OBJAZD_0,,1,2,,1
-D5,DP,D5006,Radzymin Ks. Czartoryskiej,0,D5_RDZ_D_JZ_OBJAZD_0,,1,2,,1
-D5,DP,D5007,Radzymin Ks. Czartoryskiej p. Kuligów,0,D5_RDZ_D_KUL_JZ_OBJAZD_0,,1,2,,1
-D5,SOB,D5008,Radzymin Ks. Czartoryskiej,1,D5_RDZ_JZ_D_RDZ_OBJAZD_0,,1,2,,1
-D5,ND,D5009,Radzymin Ks. Czartoryskiej p. Kuligów,1,D5_RDZ_JZ_KUL_D_RDZ_OBJAZD_0,,1,2,,1
+D4,DP,D4001,Radzymin Ks. Czartoryskiej p. Karolew,0,D4_LA_K_RDZ_1010_0,,1,2,,1
+D4,DP,D4002,Radzymin Ks. Czartoryskiej p. Karolew,0,D4_LA_K_RDZ_1010_0,,1,2,,1
+D4,DP,D4003,Lasków p. Karolew,1,D4_RDZ_K_LA_1010_1,,1,2,,1
+D4,DP,D4004,Lasków p. Karolew,1,D4_RDZ_K_LA_1010_1,,1,2,,1
+D4,DP,D4005,Lasków p. Karolew,1,D4_RDZ_K_LA_1010_1,,1,2,,1
+D3,DP,D3001,Radzymin Ks. Czartoryskiej p. Małopole,0,D3_LA_D_RDZ_1010_0,,1,2,,1
+D3,DP,D3002,Radzymin Ks. Czartoryskiej,0,D3_LA_RDZ_1010_0,,1,2,,1
+D3,DP,D3003,Warszawa Dw. Wileński p. Małopole,0,D3_LA_D_WAWDW_1010_0,,1,2,,2
+D3,DP,D3004,Radzymin Ks. Czartoryskiej,0,D3_LA_RDZ_1010_0,,1,2,,1
+D3,DP,D3005,Lasków,1,D3_RDZ_LA_1010_1,,1,2,,1
+D3,DP,D3006,Lasków,1,D3_WWADW_LA_1010_1,,1,2,,1
+D3,DP,D3007,Lasków,1,D3_WWADW_LA_1010_1,,1,2,,2
+D2,DP,D2001,Radzymin Ks. Czartoryskiej,0,D2_CZ_RDZ_1010_0,,1,2,,2
+D2,DP,D2002,Radzymin Ks. Czartoryskiej,0,D2_SL_RDZ_1010_0,,1,2,,1
+D2,DSZ,D2014,Radzymin Ks. Czartoryskiej p. Karpin,0,D2_DAB_Karp_RDZ_1010_0,,1,2,,2
+D2,DP,D2003,Radzymin Ks. Czartoryskiej p. Karpin,0,D2_CZ_Karp_RDZ_1010_0,,1,2,,1
+D2,DP,D2004,Radzymin Ks. Czartoryskiej,0,D2_SL_RDZ_1010_0,,1,2,,1
+D2,DP,D2005,Radzymin Ks. Czartoryskiej,0,D2_SL_RDZ_1010_0,,1,2,,1
+D2,DSZ,D2006,Radzymin Ks. Czartoryskiej,0,D2_CZ_RDZ_1010_0,,1,2,,1
+D2,DP,D2007,Radzymin Ks. Czartoryskiej,0,D2_SL_RDZ_1010_0,,1,2,,1
+D2,DSZ,D2015,Dąbrówka p. Karpin,1,D2_DAB_Karp_RDZ_1010_1,,1,2,,2
+D2,DP,D2008,Czarnów,1,D2_CZ_RDZ_1010_1,,1,2,,1
+D2,DP,D2009,Ślężany p. Karpin,1,D2_SL_Karp_RDZ_1010_1,,1,2,,1
+D2,DP,D2010,Ślężany,1,D2_SL_RDZ_1010_1,,1,2,,1
+D2,DSZ,D2011,Czarnów,1,D2_CZ_RDZ_1010_1,,1,2,,1
+D2,DP,D2012,Ślężany,1,D2_SL_RDZ_1010_1,,1,2,,1
+D2,DP,D2013,Ślężany,1,D2_SL_RDZ_1010_1,,1,2,,1
+D1,DP,D1001,Warszawa Pl. Bankowy,0,D1_KG_WAWPLB_1010_0,,2,2,,1
+D1,DP,D1002,Warszawa Dw. Wileński,0,D1_KG_WAWDW_1010_0,,2,2,,2
+D1,DP,D1003,Warszawa Pl. Bankowy,0,D1_KG_WAWPLB_1010_0,,2,2,,1
+D1,DP,D1004,Radzymin Ks. Czartoryskiej,0,D1_KG_RDZ_1010_0,,0,2,,3
+D1,DP,D1005,Warszawa Dw. Wileński,0,D1_KG_WAWDW_1010_0,,2,2,,1
+D1,DP,D1006,Warszawa Dw. Wileński,0,D1_KG_WAWDW_1010_0,,2,2,,2
+D1,DP,D1007,Kuligów,1,D1_WWADW_KG_1010_1,,2,2,,2
+D1,DP,D1008,Kuligów,1,D1_WWADW_KG_1010_1,,2,2,,1
+D1,DP,D1009,Kuligów,1,D1_RDZ_KG_1010_1,,0,2,,3
+D1,DP,D1010,Kuligów,1,D1_WWADW_KG_1010_1,,2,2,,1
+D1,DP,D1011,Kuligów,1,D1_WWADW_KG_1010_1,,2,2,,2
+D1,DP,D1012,Kuligów,1,D1_WWADW_KG_1010_1,,2,2,,1
+D5,SOB,D5001,Radzymin Ks. Czartoryskiej p. Kuligów,0,D5_RDZ_D_KUL_JZ_1010_0,,1,2,,1
+D5,SOB,D5002,Radzymin Ks. Czartoryskiej,0,D5_RDZ_D_JZ_1010_0,,1,2,,1
+D5,ND,D5003,Radzymin Ks. Czartoryskiej p. Kuligów,0,D5_RDZ_D_KUL_JZ_1010_0,,1,2,,1
+D5,SOB,D5004,Radzymin Ks. Czartoryskiej,0,D5_RDZ_D_JZ_1010_0,,1,2,,1
+D5,ND_WK,D5005,Radzymin Ks. Czartoryskiej p. Kuligów,0,D5_RDZ_D_KUL_JZ_1010_0,,1,2,,1
+D5,DP,D5006,Radzymin Ks. Czartoryskiej,0,D5_RDZ_D_JZ_1010_0,,1,2,,1
+D5,DP,D5007,Radzymin Ks. Czartoryskiej p. Kuligów,0,D5_RDZ_D_KUL_JZ_1010_0,,1,2,,1
+D5,SOB,D5008,Radzymin Ks. Czartoryskiej,1,D5_RDZ_JZ_D_RDZ_1010_0,,1,2,,1
+D5,ND,D5009,Radzymin Ks. Czartoryskiej p. Kuligów,1,D5_RDZ_JZ_KUL_D_RDZ_1010_0,,1,2,,1
