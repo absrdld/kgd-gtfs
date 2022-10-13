@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,default_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
-Procesbarwny,https://github.com/absrdld,pl,pl,20220901,20230217,1.1.4,,
+Procesbarwny,https://github.com/absrdld,pl,pl,20220901,20230217,1.1.6,,
