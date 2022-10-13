@@ -12,9 +12,10 @@ Jednocześnie informuje, iż ten zestaw danych GTFS nie jest oficjalnym źródł
 
 ***
 
-### Wersja 1.1.5
+### Wersja 1.1.6
 
 Zmiany:
-- poprawiono kurs D2010 (błędna trasa)
+- Przywrócono trasę podstawową dla D1, D2, D3, D4, D5
+- Przywrócono funkcjonowanie przystanków Radzymin Leśna 02 i Radzymin Leśna 03
 
 Jeśli chcesz integrować te dane z innymi zwróć uwagę na prawdopodobne powielające się przystanki w stops.txt pomiędzy zestawami GTFS!
