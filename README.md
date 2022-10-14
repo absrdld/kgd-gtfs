@@ -12,6 +12,11 @@ Jednocześnie informuje, iż ten zestaw danych GTFS nie jest oficjalnym źródł
 
 ***
 
+### Wersja 1.2
+
+Zmiany:
+- Dodano oznakowanie przystanków "na żądanie"
+
 ### Wersja 1.1.6
 
 Zmiany:
