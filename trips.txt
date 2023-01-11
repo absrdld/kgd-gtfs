@@ -1,25 +1,26 @@
 route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,exceptional,wheelchair_accessible,bikes_allowed,trip_short_name,brigade
-D4,DP,D4001,Radzymin Ks. Czartoryskiej p. Karolew,0,D4_LA_K_RDZ_1010_0,,1,2,,1
-D4,DP,D4002,Radzymin Ks. Czartoryskiej p. Karolew,0,D4_LA_K_RDZ_1010_0,,1,2,,1
-D4,DP,D4003,Lasków p. Karolew,1,D4_RDZ_K_LA_1010_1,,1,2,,1
-D4,DP,D4004,Lasków p. Karolew,1,D4_RDZ_K_LA_1010_1,,1,2,,1
-D4,DP,D4005,Lasków p. Karolew,1,D4_RDZ_K_LA_1010_1,,1,2,,1
-D3,DP,D3001,Radzymin Ks. Czartoryskiej p. Małopole,0,D3_LA_D_RDZ_1010_0,,1,2,,1
-D3,DP,D3002,Radzymin Ks. Czartoryskiej,0,D3_LA_RDZ_1010_0,,1,2,,1
-D3,DP,D3003,Warszawa Dw. Wileński p. Małopole,0,D3_LA_D_WAWDW_1010_0,,1,2,,2
-D3,DP,D3004,Radzymin Ks. Czartoryskiej,0,D3_LA_RDZ_1010_0,,1,2,,1
-D3,DP,D3005,Lasków,1,D3_RDZ_LA_1010_1,,1,2,,1
-D3,DP,D3006,Lasków,1,D3_WWADW_LA_1010_1,,1,2,,1
-D3,DP,D3007,Lasków,1,D3_WWADW_LA_1010_1,,1,2,,2
+D4,DP,D4001,Radzymin Ks. Czartoryskiej p. Karolew,0,D4_LA_K_RDZ_1010_0,,1,2,,41
+D4,DP,D4002,Radzymin Ks. Czartoryskiej p. Karolew,0,D4_LA_K_RDZ_1010_0,,1,2,,41
+D4,DP,D4003,Lasków p. Karolew,1,D4_RDZ_K_LA_1010_1,,1,2,,41
+D4,DP,D4004,Lasków p. Karolew,1,D4_RDZ_K_LA_1010_1,,1,2,,41
+D4,DP,D4005,Lasków p. Karolew,1,D4_RDZ_K_LA_1010_1,,1,2,,41
+D3,DP,D3008,Warszawa Pl. Bankowy,,D3_LA_D_WAWPLB_1010_0,,0,2,,01
+D3,DP,D3001,Radzymin Ks. Czartoryskiej p. Małopole,0,D3_LA_D_RDZ_1010_0,,1,2,,41
+D3,DP,D3002,Radzymin Ks. Czartoryskiej,0,D3_LA_RDZ_1010_0,,1,2,,41
+D3,DP,D3003,Warszawa Dw. Wileński p. Małopole,0,D3_LA_D_WAWDW_1010_0,,0,2,,01
+D3,DP,D3004,Radzymin Ks. Czartoryskiej,0,D3_LA_RDZ_1010_0,,1,2,,41
+D3,DP,D3005,Lasków,1,D3_RDZ_LA_1010_1,,1,2,,41
+D3,DP,D3006,Lasków,1,D3_WWADW_LA_1010_1,,0,2,,01
+D3,DP,D3007,Lasków,1,D3_WWADW_LA_1010_1,,0,2,,01
 D2,DP,D2001,Radzymin Ks. Czartoryskiej,0,D2_CZ_RDZ_1010_0,,1,2,,2
 D2,DP,D2002,Radzymin Ks. Czartoryskiej,0,D2_SL_RDZ_1010_0,,1,2,,1
-D2,DSZ,D2014,Radzymin Ks. Czartoryskiej p. Karpin,0,D2_DAB_Karp_RDZ_1010_0,,1,2,,2
+D2,DSZ,D2014,Radzymin Ks. Czartoryskiej,0,D2_D_RDZ_1010_0,,1,2,,2
 D2,DP,D2003,Radzymin Ks. Czartoryskiej p. Karpin,0,D2_CZ_Karp_RDZ_1010_0,,1,2,,1
 D2,DP,D2004,Radzymin Ks. Czartoryskiej,0,D2_SL_RDZ_1010_0,,1,2,,1
 D2,DP,D2005,Radzymin Ks. Czartoryskiej,0,D2_SL_RDZ_1010_0,,1,2,,1
 D2,DSZ,D2006,Radzymin Ks. Czartoryskiej,0,D2_CZ_RDZ_1010_0,,1,2,,1
 D2,DP,D2007,Radzymin Ks. Czartoryskiej,0,D2_SL_RDZ_1010_0,,1,2,,1
-D2,DSZ,D2015,Dąbrówka p. Karpin,1,D2_DAB_Karp_RDZ_1010_1,,1,2,,2
+D2,DSZ,D2015,Dąbrówka,1,D2_D_RDZ_1010_1,,1,2,,2
 D2,DP,D2008,Czarnów,1,D2_CZ_RDZ_1010_1,,1,2,,1
 D2,DP,D2009,Ślężany p. Karpin,1,D2_SL_Karp_RDZ_1010_1,,1,2,,1
 D2,DP,D2010,Ślężany,1,D2_SL_RDZ_1010_1,,1,2,,1
