@@ -12,6 +12,12 @@ Jednocześnie informuje, iż ten zestaw danych GTFS nie jest oficjalnym źródł
 
 ***
 
+### Wersja 1.2.1
+
+Zmiany:
+- zaktualizowano rozkłady jazdy (D2014, D2015, D3008)
+- poprawiono zespół przystankowy Karpin (usunięcie przystanku DKP4, przeniesienie DKP2)
+
 ### Wersja 1.2
 
 Zmiany:
