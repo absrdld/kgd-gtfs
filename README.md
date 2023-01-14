@@ -12,6 +12,11 @@ Jednocześnie informuje, iż ten zestaw danych GTFS nie jest oficjalnym źródł
 
 ***
 
+### Wersja 1.2.2
+
+Zmiany:
+- poprawiono przystanki (D2014, D2015)
+
 ### Wersja 1.2.1
 
 Zmiany:
